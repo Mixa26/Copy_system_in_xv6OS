@@ -1,7 +1,8 @@
 # Copy_system_in_xv6OS
+This was a university project we had as homework. Original project text is in the "OS Domaci1" file.
+
 I added a copy paste functionality to the xv6 OS
 
-This was a university project we had as homework.
 The xv6 OS can be run on a linux machine, to do so
 put these files into a folder, name it however you like, 
 and then go to that directory through the terminal 
